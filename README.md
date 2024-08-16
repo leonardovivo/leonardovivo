@@ -1,5 +1,4 @@
-## Opa! Quem vos fala é o Leonardo! 😎✌️
-
+## Opa! Quem vos fala é o Leonardo! 😎🤙
 - 📱 Desenvolvedor Mobile
 - 💻 Flutter & Dart 💙
 
