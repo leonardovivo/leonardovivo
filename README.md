@@ -1,6 +1,5 @@
 ## Opa! Aqui quem fala é o Leonardo!
-- 📱 Desenvolvedor Mobile
-- 💻 Flutter & Dart 💙
+- 📱 Desenvolvedor Mobile e Web
 
 
 <div align="left">
